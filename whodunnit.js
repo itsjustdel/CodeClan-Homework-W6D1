@@ -172,6 +172,7 @@
 // const verdict = declareMurderer();
 // console.log(verdict); //Prof Plum, variable remained unchanged
 
+//EXTENSION - MY EPISODE
 let murderer = 'Miss Scarlett';
 let weapons = ['Candle Stick', 'Revolver', 'Dagger', 'Lead Pipe', 'Wrench', 'Rope'];
 
